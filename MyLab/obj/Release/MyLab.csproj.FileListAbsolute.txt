@@ -1,0 +1,11 @@
+c:\users\alechka\documents\visual studio 2015\Projects\MyLab\MyLab\bin\Release\MyLab.exe.config
+c:\users\alechka\documents\visual studio 2015\Projects\MyLab\MyLab\bin\Release\MyLab.exe
+c:\users\alechka\documents\visual studio 2015\Projects\MyLab\MyLab\bin\Release\MyLab.pdb
+c:\users\alechka\documents\visual studio 2015\Projects\MyLab\MyLab\obj\Release\MyLab.exe
+c:\users\alechka\documents\visual studio 2015\Projects\MyLab\MyLab\obj\Release\MyLab.pdb
+C:\Users\Alechka\Desktop\MyLab\MyLab\bin\Release\MyLab.exe.config
+C:\Users\Alechka\Desktop\MyLab\MyLab\obj\Release\MyLab.exe
+C:\Users\Alechka\Desktop\MyLab\MyLab\obj\Release\MyLab.pdb
+C:\Users\Alechka\Desktop\MyLab\MyLab\bin\Release\MyLab.exe
+C:\Users\Alechka\Desktop\MyLab\MyLab\bin\Release\MyLab.pdb
+C:\Users\Alechka\Desktop\MyLab\MyLab\obj\Release\MyLab.csprojResolveAssemblyReference.cache
